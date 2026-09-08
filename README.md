@@ -20,7 +20,7 @@ Aplicar os conceitos de regressão linear para resolver dois problemas preditivo
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone https://github.com/davimartins7/Av1IntelArtificalComputacional.git
 
 
 2. Instale as dependências básicas:
